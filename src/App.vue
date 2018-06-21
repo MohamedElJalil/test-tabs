@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Test Tab for Oetker Digital GmbH</h1>
+    <h1>Test Tab</h1>
     <div class="content">
       <tab-container :tabs="listTabs">
         <!-- TOPICS. -->
